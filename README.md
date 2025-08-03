@@ -20,6 +20,6 @@ Explanation of pdf as pages
 4. To convert we write English sentence (how are you) for convert into hindi type "hi" and enter
 5. This is the output of translation of how are you in hindi (आप कैसे हैं)
 6. To convert we write English sentence (how are you) for convert into spanish type "es" and enter
-7.This is the output of translation of how are you in Spanish (Cómo estás)
-8.To convert we write English sentence (how are you) for convert into french type "fr'' and enter
-9.This is the output of translation of how are you in french (vas-tu)
+7. This is the output of translation of how are you in Spanish (Cómo estás)
+8. To convert we write English sentence (how are you) for convert into french type "fr'' and enter
+9. This is the output of translation of how are you in french (vas-tu)
